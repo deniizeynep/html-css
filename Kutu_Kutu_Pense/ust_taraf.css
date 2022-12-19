@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(59, 58, 58);
+    width: 1320px;
+}
+.baslik{
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    line-height: 3;
+}
+.ust_panel{
+    background-color: yellow;
+    height: 50px;
+    border: black 5px solid;
+}
+.kutucuk{
+    background-color: rgb(252, 128, 149);
+    border: black 1px solid;
+    width: 130px;
+    float: left;
+    text-align: center;
+    line-height: 1;
+    margin: 50px;
+    margin-top: 15px;
+    
+}

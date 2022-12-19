@@ -1,0 +1,9 @@
+.sag_panel{
+    background-color: red;
+    border: black 4px solid;
+    height: 752px;
+    width: 100px;
+    float: right;
+    margin-top: -770px;
+    padding: 5px;
+}

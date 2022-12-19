@@ -1,0 +1,10 @@
+.sol_panel{
+    background-color: greenyellow;
+    width: 200px;
+    height: 750px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    padding: 5px;
+    border: black 4px solid;
+    line-height: 2;
+}
