@@ -1,7 +1,11 @@
+
+/* Sitenin Arka Plan Stili */
 body{
     background-color: rgb(59, 58, 58);
     width: 1320px;
 }
+
+/* Başlık Stili */
 .baslik{
     color: red;
     text-align: center;
@@ -10,11 +14,15 @@ body{
     font-size: xx-large;
     line-height: 3;
 }
+
+/* Üst Panel'in Stili */
 .ust_panel{
     background-color: yellow;
     height: 50px;
     border: black 5px solid;
 }
+
+/* Üst Paneldeki Küçük Kutuların Stili */
 .kutucuk{
     background-color: rgb(252, 128, 149);
     border: black 1px solid;

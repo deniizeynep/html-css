@@ -1,3 +1,5 @@
+
+/* Orta Panel'in Stili */
 .orta_panel{
     background-color: orangered;
     border: black 4px solid;
@@ -7,6 +9,8 @@
     padding: 5px;
     margin-left: 215px;
 }
+
+/* Orta Panel İçindeki Uzun Kutuların Stili */
 .uzun_kutucuklar{
     background-color: pink;
     border: pink 1px solid;
@@ -15,6 +19,7 @@
     
 }
 
+/* Orta Panel İçindeki Küçük Kutucukların Stili */
 .kucuk_kutucuklar{
     background-color: rgb(243, 243, 101);
     border: black 1px solid;
