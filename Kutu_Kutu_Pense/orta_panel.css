@@ -15,7 +15,19 @@
     
 }
 
-.kucuk_kutucuklar{
+/* .kucuk_kutucuklar{
+    background-color: rgb(243, 243, 101);
+    border: black 1px solid;
+    width: 100px;
+    margin: 50px;
+    margin-top: 30px;
+    text-align: center; 
+    line-height: 2;
+    height: 40px;
+    display: inline-table;
+} */
+
+button{
     background-color: rgb(243, 243, 101);
     border: black 1px solid;
     width: 100px;
@@ -26,3 +38,4 @@
     height: 40px;
     display: inline-table;
 }
+
